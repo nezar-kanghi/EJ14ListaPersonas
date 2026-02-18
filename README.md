@@ -1,0 +1,1 @@
+En este ejercicio gestionamos una lista de objetos persona utilizando ArrayList. Cada persona tiene un su nombre y edad. En el main creamos varias personas despues llamamos al metodo eliminarMenores, que recorre un iterator y elimina aquellas personas cuya edad <18 mediante it.remove().
